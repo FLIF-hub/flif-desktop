@@ -1,0 +1,36 @@
+{
+  "name": "flif-desktop",
+  "version": "0.1.0",
+  "description": "Convert images to and from FLIF.",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FLIF-hub/flif-desktop.git"
+  },
+  "keywords": [
+    "FLIF",
+    "image",
+    "conversion",
+    "image",
+    "compression",
+    "optimization",
+    "encode",
+    "decode",
+    "transcode"
+  ],
+  "author": "The Jared Wilcurt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FLIF-hub/flif-desktop/issues"
+  },
+  "homepage": "https://github.com/FLIF-hub/flif-desktop#readme",
+  "dependencies": {
+    "node-flif": "^1.0.1"
+  },
+  "devDependencies": {
+    "nw": "^0.28.1-sdk"
+  }
+}
