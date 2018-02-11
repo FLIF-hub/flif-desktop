@@ -4,6 +4,27 @@
     <title>FLIF Desktop</title>
   </head>
   <body>
-    <h1>FLIF Desktop</h1>
+    <div id="app">
+      <header>
+        <nav class="tabs">
+          <button class="tab">Easy Convert</button>
+          <button class="tab">Batch Convert</button>
+          <button class="tab">Animate</button>
+          <button class="tab">Help</button>
+          <button class="tab">About</button>
+        </nav>
+        <window-controls></window-controls>
+      </header>
+      <main>
+        content
+      </main>
+    </div>
+
+    <!-- Dependencies -->
+    <script type="text/javascript" src="node_modules/vue/dist/vue.min.js"></script>
+    <script type="text/javascript" src="node_modules/vuex/dist/vuex.min.js"></script>
+    <script type="text/javascript" src="node_modules/http-vue-loader/src/httpVueLoader.js"></script>
+
+    <script type="text/javascript" src="scripts/index.js"></script>
   </body>
 </html>
