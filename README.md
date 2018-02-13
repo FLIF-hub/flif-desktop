@@ -8,7 +8,7 @@ This is under construction and not ready for use yet.
 
 These are the current mockups, however they are subject to change and discussion. Create a Github issue if you would like to contribute to the design of FLIF Desktop.
 
-<p align="center"><img src="https://i.imgur.com/JUhazNB.png" alt="Mockup of easy conversion mode"></p>
+<p align="center"><img src="https://i.imgur.com/xsPHWSC.png" alt="Mockup of easy conversion mode"></p>
 
 
 ## Running locally for development
